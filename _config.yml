@@ -14,7 +14,7 @@ description              : "Cloud is real"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "http://nithinvenugopal.github.io/assets/19260531_1764986953519359_4579578632718253082_n.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
