@@ -21,4 +21,4 @@ Installing boto3 on macOS is easy but sometimes users may face some issues. Belo
     
 Now you can use the boto3 sdk by importing in your python script as below-
 
-    import boto3
+    `import boto3`
