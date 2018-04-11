@@ -6,7 +6,7 @@ Below is the shell script to generate private CIDR range. The CIDR range can be 
 Below script does this /20. You can change the logic accordingly for other addresss format
 
 
-    `##### Generate CIDR #####
+    ##### Generate CIDR #####
     value=1
     while [ $value -eq 1 ]
     do
@@ -52,4 +52,4 @@ Below script does this /20. You can change the logic accordingly for other addre
     d=0
     fi
 
-    ##### Generate CIDR END #####`
+    ##### Generate CIDR END #####
