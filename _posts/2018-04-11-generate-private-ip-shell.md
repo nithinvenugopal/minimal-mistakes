@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Below is the shell script to generate private CIDR range. The CIDR range can be used to usecases lke creating VPC in Amazon AWS.
 
