@@ -3,7 +3,7 @@ published: true
 ---
 Below is the shell script to generate private CIDR range. The CIDR range can be used to usecases lke creating VPC in Amazon AWS.
 
-Below script does this /20. You can change the logic accordingly for other addresss format
+The script does this for CIDR of /20. You can change the logic accordingly for other address format
 
 
     ##### Generate CIDR #####
@@ -33,7 +33,7 @@ Below script does this /20. You can change the logic accordingly for other addre
     fi
     if [ $a -eq 172 ]
     then
-    b=$[ ( $RANDOM % 30 )  + 16 ]   # 172.31 already taken by default VPC
+    b=$[ ( $RANDOM % 31 )  + 16 ]   
     c=1
     while [ $(($c % 16)) -ne 0 ]
     do
