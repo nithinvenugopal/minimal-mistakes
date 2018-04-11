@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Amazon EFS File Sync is a tool to copy data from On-premise or in-Cloud file systems to EFS. At the time of this writing EFS File sync only supports network file system (NFS). 
 
@@ -24,4 +24,3 @@ Cons
 
 
 Other options:
-
