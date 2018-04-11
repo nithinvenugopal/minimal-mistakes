@@ -7,7 +7,7 @@ EFS brings a lot of flexibility to the users by allowing the data to grow to alm
 
 For On-premise, EFS file sync is an applicance for your Vmware Esxi hypervisor which can be downloaded at EFS -> File Sync -> create sync agent section. It downloads a .ova file which later can be imported in your hypervisor.
 
-![]({{site.baseurl}}/http://nithinvenugopal.github.io/assets/screenshot.png)
+![](http://nithinvenugopal.github.io/assets/screenshot.png)
 
 
 EFS File Sync supports the following hypervisor versions and hosts:
